@@ -4,6 +4,15 @@
     <projectFile profileName="http">src/SistemaPQRS.Api/SistemaPQRS.Api.csproj</projectFile>
     <projectFile profileName="https">src/SistemaPQRS.Api/SistemaPQRS.Api.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0ed65348-d7d8-4890-ac58-efe403cffa5f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +43,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1787864949527</updated>
       <workItem from="1787864950666" duration="127000" />
-      <workItem from="1787865652984" duration="373000" />
+      <workItem from="1787865652984" duration="869000" />
     </task>
     <servers />
   </component>
