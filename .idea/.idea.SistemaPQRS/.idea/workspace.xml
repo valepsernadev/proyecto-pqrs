@@ -18,6 +18,9 @@
       <change afterPath="$PROJECT_DIR$/frontend-admin/.gitkeep" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/widget/.gitkeep" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SistemaPQRS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SistemaPQRS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SistemaPQRS.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemaPQRS.Api/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SistemaPQRS.Api/SistemaPQRS.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemaPQRS.Api/SistemaPQRS.Api.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SistemaPQRS.Api/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemaPQRS.Api/appsettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +50,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "develop",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -98,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1787864949527</updated>
       <workItem from="1787864950666" duration="127000" />
-      <workItem from="1787865652984" duration="1188000" />
+      <workItem from="1787865652984" duration="1947000" />
     </task>
     <servers />
   </component>
